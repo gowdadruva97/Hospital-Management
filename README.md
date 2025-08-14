@@ -12,10 +12,10 @@
 
 The software enhances the quality and efficiency of hospital operations, including billing and diagnostic processes.
 
->> Objectives of the system include:
+Objectives of the system include:
 
-> Defining and managing hospital tasks.
-> Recording patient information and diagnoses.
-> Generating bills for services rendered.
-> Monitoring immunization records for children.
-> Storing data related to diseases and medications.
+1.Defining and managing hospital tasks.
+2.Recording patient information and diagnoses.
+3.Generating bills for services rendered.
+4.Monitoring immunization records for children.
+5.Storing data related to diseases and medications.
